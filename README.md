@@ -5,6 +5,9 @@ Doxygen yazılım dokümantasyon programı çalışma notlarım.
 |||
 |---|---|
 |Doxygen İndir|http://www.doxygen.nl/download.html|
+|Faydalı Eğitim - 1|https://www.youtube.com/watch?v=44Ja2X_fzv4|
+|Faydalı Eğitim - 2|https://www.youtube.com/watch?v=LZ5E4vEhsKs|
+|Faydalı Eğitim - 3 (Farklı Bir Dokümantasyon Uygulaması İçin)|https://www.youtube.com/watch?v=b4iFyrLQQh4|
 
 ---
 ## Yükleme 
