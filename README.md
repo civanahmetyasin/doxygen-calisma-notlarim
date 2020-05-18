@@ -49,3 +49,11 @@ Doxygen yazılım dokümantasyon programı çalışma notlarım.
  
  ```
  
+ - Gereklli olan kofigurasyonlar yapıldıktan sonra asagida bulunan komut çalıştırılır.
+ 
+ ```
+ doxygen <config-file>
+ ```
+ 
+ 
+ 
