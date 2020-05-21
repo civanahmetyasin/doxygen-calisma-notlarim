@@ -46,6 +46,9 @@ Doxygen yazılım dokümantasyon programı çalışma notlarım.
  
  EXTRACT_STATIC = YES
  
+ # Dosyaların çıkartılacağı adres
+ OUTPUT_DIRECTORY = doc
+ 
  
  ```
  
