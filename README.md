@@ -9,6 +9,7 @@ Doxygen yazılım dokümantasyon programı çalışma notlarım.
 |Faydalı Eğitim - 1|https://www.youtube.com/watch?v=44Ja2X_fzv4|
 |Faydalı Eğitim - 2|https://www.youtube.com/watch?v=LZ5E4vEhsKs|
 |Faydalı Eğitim - 3 (Farklı Bir Dokümantasyon Uygulaması İçin)|https://www.youtube.com/watch?v=b4iFyrLQQh4|
+|grafikler için|https://mcuoneclipse.com/2012/06/25/5-best-eclipse-plugins-1-eclox-with-doxygen-graphviz-and-mscgen/|
 
 ---
 ## Yükleme 
