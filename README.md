@@ -51,6 +51,8 @@ Doxygen yazılım dokümantasyon programı çalışma notlarım.
  # Dosyaların çıkartılacağı adres
  OUTPUT_DIRECTORY = doc
  
+ # Eger Dot yazilimi yuklu ise
+ HAVE_DOT = YES
  
  ```
  
